@@ -2,3 +2,6 @@ salchicha
 morcilla
 panceta
 chorizos criollos
+lechuga
+tomate
+cebolla
