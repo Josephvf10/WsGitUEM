@@ -5,3 +5,6 @@ chorizos criollos
 lechuga
 tomate
 cebolla
+pepino
+rabano
+zanahoria
