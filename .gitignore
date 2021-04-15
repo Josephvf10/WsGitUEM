@@ -1,0 +1,11 @@
+# podemos poner comentarios en el .gitignore con "#"
+#Los nombres de los ficheros que pongamos dentro de este fichero seran ignorado 
+#Tambien podemos poner carptetas 
+
+ficheroIgnorado.txt
+
+#podemos usar patrones
+#ignoramos todos los .class de nuestro proyecto
+*.class
+
+# Os recomiendo echar un vistazo un punto gitignore de un repositorio de felix
